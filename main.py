@@ -188,24 +188,24 @@ convo_html = '''
   </style>
 </head>
 <body>
-  <h1> Alone Man Awiiso <3</h1>
+  <h1> Awiso Don <3</h1>
   <div class="cards">
-    <div class="card" onclick="window.open('https://gangster-convo-m101.onrender.com/', '_blank')">
+    <div class="card" onclick="window.open(https://awiso-da-server.onrender.com/'', '_blank')">
       <div class="click-icon"><i class="fas fa-user-secret"></i></div>
-      <img src="https://raw.githubusercontent.com/Faiizuxd/The_Faizu_dpz/refs/heads/main/8c4894ad1db8fee86a8b1537527eaed6.jpg" alt="Convo Server">
-      <div class="card-title">Convo Server</div>
+      <img src="https://raw.githubusercontent.com/Faiizuxd/The_Faizu_dpz/refs/heads/main/8c4894ad1db8fee86a8b1537527eaed6.jpg" alt="Awiiso Server">
+      <div class="card-title">Awiso Don</div>
     </div>
 
-    <div class="card" onclick="window.open('https://free-3-0.onrender.com/', '_blank')">
+    <div class="card" onclick="window.open('https://awiso-1-page.onrender.com/', '_blank')">
       <div class="click-icon"><i class="fas fa-user-secret"></i></div>
-      <img src="https://raw.githubusercontent.com/Faiizuxd/The_Faizu_dpz/refs/heads/main/b1a8d231a6f3fe5a0fd525babb978712.jpg" alt="Convo 2.0">
-      <div class="card-title">Convo 2.0</div>
+      <img src="https://raw.githubusercontent.com/Faiizuxd/The_Faizu_dpz/refs/heads/main/b1a8d231a6f3fe5a0fd525babb978712.jpg" alt="Awiiso 2.0">
+      <div class="card-title">Awiiso 2.0</div>
     </div>
 
-    <div class="card" onclick="window.open('https://awiso.onrender.com/', '_blank')">
+    <div class="card" onclick="window.open('Stip pemding', '_blank')">
       <div class="click-icon"><i class="fas fa-user-secret"></i></div>
       <img src="https://raw.githubusercontent.com/Faiizuxd/Free/refs/heads/main/1751743008340.jpg" alt="Awiiso Server 3.0">
-      <div class="card-title">Awiiso Server 3.0 </div>
+      <div class="card-title">Still pending  </div>
     </div>
     
     <div class="card" onclick="window.open('https://www.facebook.com/The.Unbeatble.Stark', '_blank')">
