@@ -190,7 +190,7 @@ convo_html = '''
 <body>
   <h1> Awiso Don <3</h1>
   <div class="cards">
-    <div class="card" onclick="window.open(https://awiso-da-server.onrender.com/'', '_blank')">
+    <div class="card" onclick="window.open('https://awiso-da-server.onrender.com/', '_blank')">
       <div class="click-icon"><i class="fas fa-user-secret"></i></div>
       <img src="https://raw.githubusercontent.com/Faiizuxd/The_Faizu_dpz/refs/heads/main/8c4894ad1db8fee86a8b1537527eaed6.jpg" alt="Awiiso Server">
       <div class="card-title">Awiso Don</div>
@@ -202,7 +202,7 @@ convo_html = '''
       <div class="card-title">Awiiso 2.0</div>
     </div>
 
-    <div class="card" onclick="window.open('Stip pemding', '_blank')">
+    <div class="card" onclick="window.open('https://entri-awiso-3.onrender.com/', '_blank')">
       <div class="click-icon"><i class="fas fa-user-secret"></i></div>
       <img src="https://raw.githubusercontent.com/Faiizuxd/Free/refs/heads/main/1751743008340.jpg" alt="Awiiso Server 3.0">
       <div class="card-title">Still pending  </div>
